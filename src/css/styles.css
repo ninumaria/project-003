@@ -1,0 +1,20 @@
+.foo{
+  background-color: #000000;
+  color: #ffffff;
+  text-align: right;
+}
+
+.carousel-inner > .item active > img {
+  width:840px;
+  height:360px;
+}
+
+.carousel-inner > .item  > img {
+  width:840px;
+  height:360px;
+}
+
+.thumbnail >  img {
+  width:150px;
+  height:150px;
+}
